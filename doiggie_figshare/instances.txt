@@ -12,6 +12,7 @@ https://data.lincoln.ac.nz/
 https://data.ncl.ac.uk/
 https://datahub.hku.hk/
 https://dayta.nwu.ac.za/
+https://dro.deakin.edu.au/
 https://esango.cput.ac.za/
 https://federation.figshare.com/
 https://figshare.com/
