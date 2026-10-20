@@ -386,12 +386,12 @@ licenses_testcases = [
         [
             License(
                 name="CC BY 4.0",
-                identifiers=[
+                identifiers=(
                     LicenseIdentifier(
                         scheme=LicenseIdentifierScheme.URL,
                         value="https://creativecommons.org/licenses/by/4.0/",
-                    )
-                ],
+                    ),
+                ),
             )
         ],
     ),

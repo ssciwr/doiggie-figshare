@@ -439,11 +439,11 @@ class FigshareRepository(DataRepository):  # pylint: disable=missing-class-docst
         return [
             License(
                 name=license_data["name"],
-                identifiers=[
+                identifiers=(
                     LicenseIdentifier(
                         scheme=LicenseIdentifierScheme.URL, value=license_data["url"]
-                    )
-                ],
+                    ),
+                ),
             )
         ]
 
